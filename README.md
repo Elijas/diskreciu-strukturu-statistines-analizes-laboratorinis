@@ -1,2 +1,2 @@
 # Spausti čia:
-https://elijas.github.io/diskreciu-strukturu-statistines-analizes-laboratorinis/
+https://elijas.github.io/diskreciu-strukturu-statistines-analizes-laboratorinis/index.html
